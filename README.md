@@ -1,17 +1,17 @@
 ```markdown
-🎮 #Hangman Game
+# 🎮 Hangman Game
 
 A simple, interactive text-based Hangman game built entirely with Python. The player guesses a hidden word one letter at a time before running out of attempts.
 
 ---
 
- 📋 #Overview
+## 📋 Overview
 
 Hangman is a classic word-guessing game. The program selects a random word from a predefined list and displays it as blank spaces. The player must guess letters to reveal the word. For every wrong guess, a part of the hangman is drawn. The game ends when the player either guesses the full word or makes 6 incorrect guesses.
 
 ---
 
- 🎯 #Features
+## 🎯 Features
 
 - **Random Word Selection:** Picks a random word from a list of 5 predefined words.
 - **Visual Progress:** Displays a text-based hangman figure that updates with each wrong guess.
@@ -21,7 +21,7 @@ Hangman is a classic word-guessing game. The program selects a random word from 
 
 ---
 
- 🛠️#Key Concepts Used
+## 🛠️ Key Concepts Used
 
 This project is designed to practice fundamental Python concepts:
 
@@ -36,7 +36,7 @@ This project is designed to practice fundamental Python concepts:
 
 ---
 
- 📁 #Project Structure
+## 📁 Project Structure
 
 ```text
 hangman_game/
@@ -47,7 +47,7 @@ hangman_game/
 
 ---
 
- 🚀#How to Run
+## 🚀 How to Run
 
 ### Prerequisites
 - Python 3.x installed
@@ -66,7 +66,7 @@ python hangman.py
 
 ---
 
- 🎮#How to Play
+## 🎮 How to Play
 
 1. The game starts and shows a blank word (e.g., `_ _ _ _ _`) and an empty hangman gallows.
 2. Type a single letter (a-z) and press **Enter**.
@@ -77,7 +77,7 @@ python hangman.py
 
 ---
 
- 💻 #Code Architecture
+## 💻 Code Architecture
 
 The script is divided into modular functions for clean code structure:
 
@@ -92,7 +92,7 @@ The script is divided into modular functions for clean code structure:
 
 ---
 
- 📸 #Sample Output
+## 📸 Sample Output
 
 ```text
 ========================================
@@ -125,7 +125,7 @@ Guess a letter:
 
 ---
 
- ❓#Troubleshooting
+## ❓ Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -136,13 +136,14 @@ Guess a letter:
 
 ---
 
- 📝 #License
+## 📝 License
 
 This project is created strictly for educational purposes and learning fundamental Python programming.
 
 ---
 
- 👨‍💻#Developed By
+## 👨‍💻 Developed By
 
 **Faisal Khalid**
 CodeAlpha Internship
+```
