@@ -139,4 +139,10 @@ Guess a letter:
 ## 📝 License
 
 This project is created strictly for educational purposes and learning fundamental Python programming.
-```
+
+---
+
+## 👨‍💻 Developed By
+
+**Faisal Khalid**
+CodeAlpha Internship
